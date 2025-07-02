@@ -1,25 +1,25 @@
 # 👋 Hi there!
 🇷🇺 Русская версия ниже ↓
 
-I'm a mobile developer with experience building secure applications. I'm passionate about mobile development (Android/iOS), keep up with modern tools and architecture, and maintain an open source VPN app. I also enjoy solving algorithmic problems on LeetCode.
+I'm a mobile developer with experience building secure applications. I'm passionate about mobile development (Android), keep up with modern tools and architecture, and maintain an open source VPN app.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - 💻 **Languages & Architecture:** Kotlin, Java, MVI, MVVM, SOLID, Clean Architecture  
-- 🧩 **Jetpack & Android:** Jetpack Compose, Navigation, Room, WorkManager, Android SDK  
-- 🌐 **Networking & Data:** Retrofit, REST API, MMKV, PostgreSQL  
+- 🧩 **Jetpack & Android:** Jetpack Compose, Navigation, WorkManager, Android SDK  
+- 🌐 **Networking & Data:** Retrofit, REST API, MMKV, Room, PostgreSQL  
 - ⚙️ **Dependency Injection & Async:** Hilt, Koin, Coroutines  
-- 🧪 **Testing:** JUnit  
-- 🔒 **Security:** Keystore, InfoSec background, secure authorization, crypto container tools  
+- 🧪 **Testing:** JUnit, MockK
+- 🔒 **Security:** Keystore, InfoSec background, secure authorization
 - ☁️ **Infrastructure:** Git, Agile (Scrum)
 
 ---
 
 ## 💼 Experience
 
-### 🔐 **Android Developer | FOIV | 2023 — Present**
+### 🔐 **Android Developer | Government Agency | 2023 — Present**
 Developing a secure VPN app for government agencies:
 - Integrated support for VPN/Proxy protocols
 - Built QR code scanner for config import (reduced admin errors by 30%)
@@ -31,7 +31,7 @@ Developing a secure VPN app for government agencies:
 - Stack: Jetpack Compose, MVI, MMKV  
 📎 [Project on GitHub](https://github.com/Ko4Learner/VPN_Client)
 
-### 🛡️ **Information Security Specialist | FOIV | 2020 — 2023**
+### 🛡️ **Information Security Specialist | Government Agency | 2020 — 2023**
 - Supported protection of critical infrastructure and state systems
 - Developed crypto container analysis and decryption tool (C++)
 
@@ -47,18 +47,18 @@ Developing a secure VPN app for government agencies:
 # 👋 Привет!
 🇬🇧 English version above ↑
 
-Я мобильный разработчик с опытом создания защищённых приложений. Активно развиваюсь в мобильной разработке (Android/iOS), изучаю профильные ресурсы и технологии. Развиваю open source VPN-приложение и практикую алгоритмы на LeetCode.
+Я мобильный разработчик с опытом создания защищённых приложений. Активно развиваюсь в мобильной разработке (Android), изучаю профильные ресурсы и технологии. Развиваю open source VPN-приложение.
 
 ---
 
 ## 🛠️ Мой стек
 
 - 💻 **Языки и архитектура:** Kotlin, Java, MVI, MVVM, SOLID, Clean Architecture  
-- 🧩 **Jetpack & Android:** Jetpack Compose, Navigation, Room, WorkManager, Android SDK  
-- 🌐 **Сеть и данные:** Retrofit, REST API, MMKV, PostgreSQL  
+- 🧩 **Jetpack & Android:** Jetpack Compose, Navigation, WorkManager, Android SDK  
+- 🌐 **Сеть и данные:** Retrofit, REST API, MMKV, Room, PostgreSQL  
 - ⚙️ **DI и асинхронность:** Hilt, Koin, Coroutines  
-- 🧪 **Тестирование:** JUnit  
-- 🔒 **Безопасность:** Keystore, опыт ИБ, авторизация, работа с криптоконтейнерами  
+- 🧪 **Тестирование:** JUnit, MockK
+- 🔒 **Безопасность:** Keystore, опыт ИБ, авторизация
 - ☁️ **Инфраструктура:** Git, Agile (Scrum)
 
 ---
