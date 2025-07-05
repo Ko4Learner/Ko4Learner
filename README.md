@@ -12,7 +12,7 @@ I'm a mobile developer with experience building secure applications. I'm passion
 - 🌐 **Networking & Data:** Retrofit, REST API, MMKV, Room, PostgreSQL  
 - ⚙️ **Dependency Injection & Async:** Hilt, Koin, Coroutines  
 - 🧪 **Testing:** JUnit, MockK
-- 🔒 **Security:** Keystore, InfoSec background, secure authorization
+- 🔒 **Security:** Keystore, InfoSec background
 - ☁️ **Infrastructure:** Git, Agile (Scrum)
 
 ---
@@ -58,7 +58,7 @@ Developing a secure VPN app for government agencies:
 - 🌐 **Сеть и данные:** Retrofit, REST API, MMKV, Room, PostgreSQL  
 - ⚙️ **DI и асинхронность:** Hilt, Koin, Coroutines  
 - 🧪 **Тестирование:** JUnit, MockK
-- 🔒 **Безопасность:** Keystore, опыт ИБ, авторизация
+- 🔒 **Безопасность:** Keystore, опыт ИБ
 - ☁️ **Инфраструктура:** Git, Agile (Scrum)
 
 ---
