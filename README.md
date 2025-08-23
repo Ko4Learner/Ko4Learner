@@ -1,7 +1,7 @@
 # Hi there!
 
 I’m a mobile developer with experience building secure applications.  
-GovTech: Android VPN for a government agency (2024—present, NDA). Maintainer of an open-source VPN client.
+GovTech: Android VPN for a government agency (2023—present, NDA). Maintainer of an open-source VPN client.
 
 **Stack:** Kotlin · Android SDK · UI (Jetpack Compose, XML) · Navigation · Lifecycle · Architectures (MVI, MVVM, Clean Architecture, SOLID) · DI (Hilt, Koin) · Coroutines/Flow · Networking (Retrofit, OkHttp, REST) · Data (Room, MMKV) · CameraX · ML Kit · Yandex Maps API · Services (ForegroundService, VpnService) · Notifications · Testing (JUnit, MockK, Robolectric, Espresso)
 
@@ -14,7 +14,7 @@ GovTech: Android VPN for a government agency (2024—present, NDA). Maintainer o
   <summary>RU</summary>
 
 Я мобильный разработчик с опытом создания защищённых приложений.  
-Опыт: VPN для госорганов (Android, 2024—н.в., NDA). Поддерживаю open-source VPN-клиент.
+Опыт: VPN для госорганов (Android, 2023—н.в., NDA). Поддерживаю open-source VPN-клиент.
 
 **Стек:** Kotlin · Android SDK · UI (Jetpack Compose, XML) · Navigation · Lifecycle · Архитектуры (MVI, MVVM, Clean Architecture, SOLID) · DI (Hilt, Koin) · Coroutines/Flow · Сеть (Retrofit, OkHttp, REST) · Данные (Room, MMKV) · CameraX · ML Kit · Yandex Maps API · Services (ForegroundService, VpnService) · Notifications · Тестирование (JUnit, MockK, Robolectric, Espresso)
 
