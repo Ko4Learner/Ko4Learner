@@ -1,6 +1,7 @@
 # Hi there!
 
 I’m a mobile developer with experience building secure applications.  
+
 GovTech: Android VPN for a government agency (2023—present, NDA). Maintainer of an open-source VPN client.
 
 Security background: Over 3 years as an Information Security Specialist in the government sector, supporting government information systems (state-level) and critical information infrastructure (CII). Developed a C++ program for detecting and decrypting crypto-containers.
@@ -15,7 +16,8 @@ Security background: Over 3 years as an Information Security Specialist in the g
 <details>
   <summary>RU</summary>
 
-Я мобильный разработчик с опытом создания защищённых приложений.  
+Я мобильный разработчик с опытом создания защищённых приложений. 
+
 Опыт: VPN для госорганов (Android, 2023—н.в., NDA). Поддерживаю open-source VPN-клиент.
 
 Опыт в ИБ: Более 3 лет специалистом по защите информации в госсекторе, сопровождение ГИС и объектов КИИ. Разработал программу для поиска и дешифрования криптоконтейнеров (С++).
