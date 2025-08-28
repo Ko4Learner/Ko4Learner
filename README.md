@@ -9,7 +9,7 @@ Security background: Over 3 years as an Information Security Specialist in the g
 **Stack:** Kotlin · Java · Android SDK · UI (Jetpack Compose, XML) · Navigation · Lifecycle · Architectures (MVI, MVVM, MVP, Clean Architecture, SOLID) · DI (Hilt, Koin, Dagger 2) · Coroutines/Flow · Networking (Retrofit, OkHttp, REST) · Data (Room, MMKV, SharedPreferences, PostgreSQL) · Security (Android Keystore, TLS pinning) · CameraX · ML Kit · Yandex Maps API · Services (ForegroundService, VpnService) · Notifications · Testing & Code quality (JUnit, MockK, Espresso, detekt)
 
 **Pinned:**  
-- **VPN Client (open source):** Xray core; Compose · MVI · Hilt · MMKV · VpnService · Notifications · ML Kit · testing setup (JUnit, MockK, Espresso).
+- **LibreXrayVPN (open source):** Xray core; Compose · MVI · Hilt · MMKV · VpnService · Notifications · ML Kit · testing setup (JUnit, MockK, Espresso).
 
 **Contacts:** Telegram [@Nikita_Kuliev](https://t.me/Nikita_Kuliev) · Email: kuliev_nik@inbox.ru
 
@@ -25,7 +25,7 @@ Security background: Over 3 years as an Information Security Specialist in the g
 **Стек:** Kotlin · Java · Android SDK · UI (Jetpack Compose, XML) · Navigation · Lifecycle · Architectures (MVI, MVVM, MVP, Clean Architecture, SOLID) · DI (Hilt, Koin, Dagger 2) · Coroutines/Flow · Networking (Retrofit, OkHttp, REST) · Data (Room, MMKV, SharedPreferences, PostgreSQL) · Security (Android Keystore, TLS pinning) · CameraX · ML Kit · Yandex Maps API · Services (ForegroundService, VpnService) · Notifications · Testing & Code quality (JUnit, MockK, Espresso, detekt)
 
 **Pinned:**  
-- **VPN-клиент (open source):** Xray core; Compose · MVI · Hilt · MMKV · VpnService · Notifications · ML Kit · тестирование (JUnit, MockK, Espresso).  
+- **LibreXrayVPN (open source):** Xray core; Compose · MVI · Hilt · MMKV · VpnService · Notifications · ML Kit · тестирование (JUnit, MockK, Espresso).  
 
 **Контакты:** Telegram [@Nikita_Kuliev](https://t.me/Nikita_Kuliev) · Email: kuliev_nik@inbox.ru
 </details>
